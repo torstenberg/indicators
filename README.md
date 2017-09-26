@@ -18,8 +18,8 @@ Queiros AM, Strong JA, Mazik K, Carstensen J, Bruun J, Somerfield PJ, Bruhn A, C
 
 ### Others
 
-Samhouri J Lester S Selig E Halpern B Fogarty M Longo C McLeod K (2012): Sea sick? Setting targets to assess ocean health and ecosystem services. Ecosphere 3(5), 1-18
+Samhouri J, Lester S, Selig E, Halpern B, Fogarty M, Longo C, McLeod K (2012): Sea sick? Setting targets to assess ocean health and ecosystem services. Ecosphere 3(5), 1-18
 
-Costanza R Mageau M (1999): What is a healthy ecosystem? Aquatic Ecology 33, 105-115
+Costanza R, Mageau M (1999): What is a healthy ecosystem? Aquatic Ecology 33, 105-115
 
 Elliott M (2013): The 10-tenets for integrated, successful and sustainable marine management. Marine Pollution Bulletin 74, 1-5
