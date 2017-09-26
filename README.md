@@ -14,6 +14,8 @@ Berg T, Fürhaupter F, Teixeira H, Uusitalo L, Zampoukas N (2015): The Marine St
 
 Elliott M ,Burdon D, Atkins JP, Borja A, Cormier R, de Jonge VN, Turner RK (2017): “And DPSIR begat DAPSI(W)R(M)!” - A unifying framework for marine environmental management. Marine Pollution Bulletin 118, 24–40
 
+Queiros AM, Strong JA, Mazik K, Carstensen J, Bruun J, Somerfield PJ, Bruhn A, Ciavatta S, Flo E, Bizsel N, Özaydinli M, Chuseve R, Muxika I, Nygård H, Papadopoulou N, Pantazi M, Krause-Jensen D (2016): An Objective Framework to Test the Quality of Candidate Indicators of Good Environmental Status. Frontiers in Marine Science 3, Article 73, 1-q5
+
 ### Others
 
 Samhouri J Lester S Selig E Halpern B Fogarty M Longo C McLeod K (2012): Sea sick? Setting targets to assess ocean health and ecosystem services. Ecosphere 3(5), 1-18
