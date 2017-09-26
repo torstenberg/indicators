@@ -1,9 +1,9 @@
 # Indicators
 All about indicators and assessment systems ...
 
-This could evolve into a place where I document knowledge, advice and links for everyone interested in indicator development in the field of marine waters and marine ecosystems and ecology. Let's see how ths will work out!
+This could evolve into a place where I document knowledge, advice and links for everyone interested in indicator development in the field of marine waters and marine ecosystems and ecology. Let's see how this will work out!
 
-For now, there is only a list of references I used in my presentationat a workshop.
+For now, there is only a list of references I used in my presentation at a workshop and the presentation file itself.
 
 ## Literature references from the ENA workshop in List/Sylt, 25-27 Sept 2017
 
