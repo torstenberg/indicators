@@ -5,6 +5,8 @@ This could evolve into a place where I document knowledge, advice and links for 
 
 For now, there is only a list of references I used in my presentation at a workshop and the presentation file itself.
 
+You may want to visit my page on [researchgate](https://www.researchgate.net/profile/Torsten_Berg).
+
 ## Literature references from the ENA workshop in List/Sylt, 25-27 Sept 2017
 
 ### Shown in presentation
