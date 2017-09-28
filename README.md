@@ -1,11 +1,15 @@
 # Indicators
 All about indicators and assessment systems ...
 
-This could evolve into a place where I document knowledge, advice and links for everyone interested in indicator development in the field of marine waters and marine ecosystems and ecology. Let's see how this will work out!
+This could evolve into a place where I document knowledge, advice and links for everyone interested in indicator development in the field of marine waters and marine ecosystems and ecology. Let's see how this will work out! I have started to write an expanded abstract of the presentation which will slowly evolve into at least an article-lenth text (even a book-like ... who knows). Read my initial text here:
 
-For now, there is only a list of references I used in my presentation at a workshop and the presentation file itself.
+[**Expanded abstract/initial article**](https://github.com/torstenberg/indicators/blob/master/article/IndicatorsAndAssessment.md)
 
-You may want to visit my page on [researchgate](https://www.researchgate.net/profile/Torsten_Berg).
+Feel free to comment on this either by mail or using the github 'issues' in the toolbar above (will be quite nerdy for the coding-unaware, but worth a try :-)
+
+For now, there is also the [presentation file itself](https://github.com/torstenberg/indicators/blob/master/indicators-assessment-presentation.pdf), the [abstract](https://github.com/torstenberg/indicators/blob/master/presentation-abstract.md) and a list of references I used in my presentation at the workshop (see below).
+
+You may want to visit my page on [researchgate](https://www.researchgate.net/profile/Torsten_Berg) where you can find more papers and references.
 
 ## Literature references from the ENA workshop in List/Sylt, 25-27 Sept 2017
 
