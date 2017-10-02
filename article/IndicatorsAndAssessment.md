@@ -14,6 +14,16 @@ In Europe, over 200 pieces of legislation with direct direct relationship to mar
 
 Gradually, these sectoral directives are superseded or subsumed into holistic frameworks such as the [Marine Strategy Framework Directive](http://ec.europa.eu/environment/marine/eu-coast-and-marine-policy/marine-strategy-framework-directive/index_en.htm) (MSFD). They call for integrative assessment and an ecosystem-based approach (EBA). Today, it is crucial that indicators and assessment systems follow this vision [@berg-2015].
 
+# What is an indicator, anyway?
+
+An indicator is an observed value representative of a phenomenon of study. In general, indicators quantify information by aggregating different and multiple data. The resulting information is therefore synthesised. In short, indicators simplify information that can help to reveal complex phenomena (direct citation from: [@gabrielsen-2003]) Five types of indicators can be described ([@gabrielsen-2003]):
+
+* (Type A) Descriptive indicators = show the current value of a variable or the development of the variable over time and are most commonly used as pressure, state or impact indicators. Examples are nutrient concentrations, number of species or extent of habitat
+* (Type B) Performance indicators = show the value of a variable in connection with a target or reference value. They measure a distance from a desired value. Examples are WFD EQR, greenhouse gas emissions against Kyoto target.
+* (Type C) Efficiency indicators = show the value of a pressure variables in relation to a driver variable. This ratio is a relative concept and should be shown as two separate lines in temporal development instead of the actual ratio, since both variables are changing with time and the pressure value must not necessarily decrease when the ratio/efficiency is increasing (e.g. due to increasing activity). Examples are level of emissions and waste generated per unit of GDP.
+* (Type D) Policy-effectiveness indicators = relate policy effort (response) to a change in driver, pressure, state or impact and are crucial in understanding the reasons for observed developments.
+* (Type E) Total Welfare indicators = show the balance between economic, social and environmental development. An example is Sustainable Economic Welfare (ISEW).
+
 # How to develop an indicator
 
 Developing indicators is no longer an isolated exercise but needs to be embedded into the overall approach. Indicators typically need to answer management questions. The first question a manager will ask is:
@@ -81,3 +91,7 @@ Ecosystem health is a human in invention ...
 - Include uncertainty from the start
 - Science can influence how the next management frameworks and decisions will look like
 - Have a Man-in-the-Middle knowing both worlds
+
+# Literature
+
+Gabrielsen P, Bosch P (2003): Environmental Indicators: Typology and Use in Reporting. EEA internal working paper, August 2003, 20pp.
