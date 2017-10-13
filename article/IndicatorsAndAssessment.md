@@ -104,4 +104,14 @@ Ecosystem health is a human in invention. First of all, it involves defining wha
 
 # Literature
 
-Gabrielsen P, Bosch P (2003): Environmental Indicators: Typology and Use in Reporting. EEA internal working paper, August 2003, 20pp.
+Berg T, Fürhaupter K, Teixeira H, Uusitalo L, Zampoukas N (2015): The Marine Strategy Framework Directive and the ecosystem-based approach – pitfalls and solutions. Mar Pollut Bull 96, 18–28.
+
+Borja A, Elliott M, Andersen JH, Cardoso AC, Carstensen J, Ferreira JG, Heiskanen A-S, Marques JC, Neto JM, Teixeira H, Uusitalo L, Uyarra MC, Zampoukas N (2013): Good Environmental Status of marine ecosystems: what is it and how do we know when we have attained it? Mar Pollut Bull 76, 16–27.
+
+Boyes SJ, Elliott M (2014): Marine legislation - The ultimate “horrendogram”: International law, European directives & national implementation. Mar Pollut Bull 86, 39–47.
+
+Elliott M (2002): The role of the DPSIR approach and conceptual models in marine environmental management: an example for offshore wind power. Mar Pollut Bull 44, iii–vii.
+
+Gabrielsen P, Bosch P (2003): Environmental Indicators: Typology and Use in Reporting.
+
+Queirós AM, Strong JA, Mazik K, Carstensen J, Bruun J, Somerfield P (2016): An objective framework to test the quality of candidate indicators of good environmental status. Front Mar Sci 3, 1–34.
