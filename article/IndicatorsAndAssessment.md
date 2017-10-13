@@ -13,7 +13,7 @@ In some ways, this system has a tendency to become absurd. In practical terms, f
 
 # What is an indicator, anyway?
 
-An indicator is an observed value representative of a phenomenon of study. In general, indicators quantify information by aggregating different and multiple data. The resulting information is therefore synthesised. In short, indicators simplify information that can help to reveal complex phenomena [direct citation from: @gabrielsen-2003] Five types of indicators can be described [@gabrielsen-2003]:
+An indicator is an observed value representative of a phenomenon of study. In general, indicators quantify information by aggregating different and multiple data. The resulting information is therefore synthesised. In short, indicators simplify information that can help to reveal complex phenomena [direct citation from @gabrielsen-2003] Five types of indicators can be described [@gabrielsen-2003]:
 
 * (Type A) Descriptive indicators = show the current value of a variable or the development of the variable over time and are most commonly used as pressure, state or impact indicators. Examples are nutrient concentrations, number of species or extent of habitat
 * (Type B) Performance indicators = show the value of a variable in connection with a target or reference value. They measure a distance from a desired value. Examples are WFD EQR, greenhouse gas emissions against Kyoto target.
@@ -43,7 +43,7 @@ This involves being clear about the scope of the indicator. If the framework, th
 
 ## Know the place within the management cycle
 
-It must be decided which stage the indicator is representing in the management cycle. A typical management cycle is the DPSIR approach, recently expanded to DAPSI(W)R(M) [see e.g. @elliott-2002; elliott-2017]. This framework is a problem-structuring approach used to clearly show the different stages of environmental management. The idea is to distinguish between societal drivers (D) that give rise to human activities (A). These activities lead to pressues (P) on the natural system (the ecosystem). This, in turn, results in state changes (S) within the natural system. Such changes will eventually be followed by impacts (I) on welfare (W). The subsequent societal reaction will be a management response (R) in terms of measures (M) to be taken in order to change the situation for the better. An example of such a cycle is fishery:
+It must be decided which stage the indicator is representing in the management cycle. A typical management cycle is the DPSIR approach, recently expanded to DAPSI(W)R(M) [see e.g. @elliott-2002; @elliott-2017]. This framework is a problem-structuring approach used to clearly show the different stages of environmental management. The idea is to distinguish between societal drivers (D) that give rise to human activities (A). These activities lead to pressues (P) on the natural system (the ecosystem). This, in turn, results in state changes (S) within the natural system. Such changes will eventually be followed by impacts (I) on welfare (W). The subsequent societal reaction will be a management response (R) in terms of measures (M) to be taken in order to change the situation for the better. An example of such a cycle is fishery:
 
 * Driver: human request for food, especially sea food
 * Activity: fishing boats are built and begin fishing
