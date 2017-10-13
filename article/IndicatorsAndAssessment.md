@@ -13,7 +13,7 @@ In some ways, this system has a tendency to become absurd. In practical terms, f
 
 # What is an indicator, anyway?
 
-An indicator is an observed value representative of a phenomenon of study. In general, indicators quantify information by aggregating different and multiple data. The resulting information is therefore synthesised. In short, indicators simplify information that can help to reveal complex phenomena (direct citation from: [@gabrielsen-2003]) Five types of indicators can be described ([@gabrielsen-2003]):
+An indicator is an observed value representative of a phenomenon of study. In general, indicators quantify information by aggregating different and multiple data. The resulting information is therefore synthesised. In short, indicators simplify information that can help to reveal complex phenomena [direct citation from: @gabrielsen-2003] Five types of indicators can be described [@gabrielsen-2003]:
 
 * (Type A) Descriptive indicators = show the current value of a variable or the development of the variable over time and are most commonly used as pressure, state or impact indicators. Examples are nutrient concentrations, number of species or extent of habitat
 * (Type B) Performance indicators = show the value of a variable in connection with a target or reference value. They measure a distance from a desired value. Examples are WFD EQR, greenhouse gas emissions against Kyoto target.
