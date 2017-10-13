@@ -3,7 +3,9 @@ All about indicators and assessment systems ...
 
 This could evolve into a place where I document knowledge, advice and links for everyone interested in indicator development in the field of marine waters and marine ecosystems and ecology. Let's see how this will work out! I have started to write an expanded abstract of the presentation which will slowly evolve into at least an article-lenth text (even a book-like ... who knows). Read my initial text here:
 
-[**Expanded abstract/initial article**](https://github.com/torstenberg/indicators/blob/master/article/IndicatorsAndAssessment.md)
+[**PDF of expanded abstract/initial article**](https://github.com/torstenberg/indicators/blob/master/article/IndicatorsAndAssessment.pdf)
+
+([markdown source file for the article](https://github.com/torstenberg/indicators/blob/master/article/IndicatorsAndAssessment.md))
 
 Feel free to comment on this either by mail or using the github 'issues' in the toolbar above (will be quite nerdy for the coding-unaware, but worth a try :-)
 
